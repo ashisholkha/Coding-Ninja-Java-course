@@ -1,4 +1,4 @@
-##Coding-Ninja-Java-Course
+<h1>Coding-Ninja-Java-Course-Solutions</h1>
 
 Welcome to the Java Code Solutions repository! Here you'll find Java implementations for various programming problems and challenges.
 
